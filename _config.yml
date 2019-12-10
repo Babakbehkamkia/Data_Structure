@@ -1,10 +1,10 @@
 # Site settings
 title: Iran University of Science and Technology
-course_name: Some Course Title
-course_description: Course description.
+course_name: Data Structures 
+course_description: هدف از اين درس آشنايي دانشجويان با انواع ساختمان هاي داده جهت مديريت داده در حافظه و در ديسک جانبي کامپيوتر است .دسترسي سريع و ذخيره سازي در فضاي کم از معيارهاي اصلي روش هاي مورد بح  مي باشد .در کنار مديريت داده ها، آشنايي مقدماتي با الگوريتم هاي مختلف و تحليل پيچيدگي آنها و آماده سازي جهت درس طراحي الگوريتم است..
 course_semester: "Fall 2019"
 description: |
-    Instructor: Zhila Sadati
+    Instructor: Hossein Rahmani
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/course_template" # the subpath of your site, e.g. /blog/
