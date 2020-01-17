@@ -1,7 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Data Structures 
-course_description: هدف از اين درس آشنايي دانشجويان با انواع ساختمان هاي داده جهت مديريت داده در حافظه و در ديسک جانبي کامپيوتر است .دسترسي سريع و ذخيره سازي در فضاي کم از معيارهاي اصلي روش هاي مورد بح  مي باشد .در کنار مديريت داده ها، آشنايي مقدماتي با الگوريتم هاي مختلف و تحليل پيچيدگي آنها و آماده سازي جهت درس طراحي الگوريتم است..
+course_description: The purpose of this course is to familiarize students with the types of data structures to manage data in memory and on the computer's peripheral disk. Rapid access and storage in low-space is one of the main criteria of the methods used. Different algorithms and their complexity analysis and preparation for the design course of the algorithm
 course_semester: "Fall 2019"
 description: |
     Instructor: Dr.Hossein Rahmani

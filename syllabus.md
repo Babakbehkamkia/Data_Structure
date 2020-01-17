@@ -3,15 +3,13 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
--  روش هاي تحليل الگوريتم ها :تابعِ رشد، شمارش مراحل، رابطه هاي بازگشتي و روش هاي حل آن ها (حدس و استقرا، تکرار با جاي گذاري و استفاده از قضيه ي اصلي)، تحليل سرشکني
+- Algorithm Analysis Methods: Growth Function, Step Counting, Recursive Relationships and Solving Methods (Guessing and Induction, Repeating with Placement and Using the Theorem), Predictive Analysis
 
--  انواع ليست ها (ليست هاي يک سويه، دوسويه، کلي، صف و پشته  ):اعمال مختلف بر روي ليست ها، استفاده از اشاره گرهاي واقعي و انديسي، پياده
-  سازي مساله هاي مختلف با ليست ها (کار با عبارت هاي رياضي ، زباله روبي، مرتب سازي ادغامي)
+- Types of lists (one-way, double-sided, global, queue and stack lists): Different actions on lists, using real and index pointers, implementing different lists problems (working with mathematical expressions, garbage collection) , Integration sorting)
+- takmil shavad
 
--  درخت ها :تعريف پياده سازي مختلف درخت ، هاي اوليه، درخت عبارت ها، استقرا بر روي درخت، پيمايش درخت اعمال مختلف بر روي درخت عبارت، تبديل نگارش ، استقراي ساختاري، درخت دودويي ، ها هاي مختلف عبارتها به هم، تراي، درخت دودويي جست وجو
+- Tangle Method: Chain Tangle, Global, Open
 
-- روش درهم سازي :درهم سازي زنجيره اي، سراسري، باز
+- Statistical sorting and ranking: Lower bound, Decision tree, Linear sorting (Counting, Baseline and Sorting), Rapid bucket sorting, Pyramid sorting, Statistical rank, External sorting
 
-- مرتب سازي و مرتبه ي آماري :کران پايين، درخت تصميم، مرتب سازي خطي (شمارشي، مبنايي و مرتب ،)سطلي سازي سريع، مرتب سازي هرمي، مرتبه ي آماري، مرتب سازی خارجی
-
-- ساختمان داده هاي پيشرفته :مجموعه هاي مجزا، درخت هاي قرمز-سياه، درخت مرتبه ي آماري، درخت بازه؛ درخت اي وي ال، درخت بي
+- Advanced Data Structure: Separate Sets, Red-Black Trees, Statistical Rank Tree, Interval Tree-VL, B-Tree
