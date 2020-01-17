@@ -11,4 +11,11 @@ permalink: /course-materials/
 
  Description :
 
- Data structure is one of the most fundamental topics needed to learn and understand many of the major concepts in computer science. The data building course is also one of the main courses in computer and information technology. Mastery of this course, in addition to being an essential requirement for computer and information technology students, can have a significant impact on accelerating a programmer's programming process.
+Data structure is one of the most fundamental topics needed to learn and understand many of the major concepts in computer science. The data building course is also one of the main courses in computer and information technology. Mastery of this course, in addition to being an essential requirement for computer and information technology students, can have a significant impact on accelerating a programmer's programming process.
+Headlines:
+1. Array
+2. Queue
+3. Stack
+4. Linked list
+5. Graph
+6. Tree
