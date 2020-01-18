@@ -7,7 +7,7 @@ permalink: /course-materials/
 <!-- * [The International Student's Guide](/static_files/materials/Books/10_The_International_Students_Guide.pdf)
 * [The Smarter Student Skills And Strategies for Success at University](/static_files/materials/Books/11_The_Smarter_Student_Skills_And_Strategies_for_Success_at_University.pdf) -->
 
-* [Here's](http://dl.p30eng.com/p30eng3/Course-booklet-data-structures-www.P30eng.com.zip) a complete and comprehensive booklet on data-building lessons for you dear students of computer engineering or information technology. You can read more about the educational content of the booklet and its headings.
+* Here's a complete and comprehensive booklet on data-building lessons for you dear students of computer engineering or information technology. You can read more about the educational content of the booklet and its headings.salam
 
 ### Description :
 
@@ -20,7 +20,9 @@ Data structure is one of the most fundamental topics needed to learn and underst
 5. Graph
 6. Tree
 
-## [Data Structure and Algorithms Lesson Booklet](http://dl.p30eng.com/p30eng3/notes-data-structures-and-Algorithms-www.p30eng.com.zip)
+### [Download](http://dl.p30eng.com/p30eng3/Course-booklet-data-structures-www.P30eng.com.zip)
+
+## Data Structure and Algorithms Lesson Booklet
 
 We have prepared a building lesson booklet and algorithms for you dear users. This booklet is complete and the concepts in this lesson are all embedded in it. Further details and headings of this leaflet are provided below, which you can read if needed. Good luck
 
@@ -39,3 +41,5 @@ In the data set of algorithms and algorithms it is attempted to first give the A
 8. Ordering
 9. Multiple-choice questions
 10. Sources
+
+### [Download](http://dl.p30eng.com/p30eng3/notes-data-structures-and-Algorithms-www.p30eng.com.zip)
