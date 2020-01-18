@@ -9,7 +9,7 @@ permalink: /course-materials/
 
 ## Data Structure Leaflet
 
-Here's a complete and comprehensive booklet on data-building lessons for you dear students of computer engineering or information technology. You can read more about the educational content of the booklet and its headings.salam
+Here's a complete and comprehensive booklet on data-building lessons for you dear students of computer engineering or information technology. You can read more about the educational content of the booklet and its headings.
 
 ### Description :
 
