@@ -4,8 +4,8 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-* [The International Student's Guide](/static_files/materials/Books/10_The_International_Students_Guide.pdf)
-* [The Smarter Student Skills And Strategies for Success at University](/static_files/materials/Books/11_The_Smarter_Student_Skills_And_Strategies_for_Success_at_University.pdf)
+<!-- * [The International Student's Guide](/static_files/materials/Books/10_The_International_Students_Guide.pdf)
+* [The Smarter Student Skills And Strategies for Success at University](/static_files/materials/Books/11_The_Smarter_Student_Skills_And_Strategies_for_Success_at_University.pdf) -->
 
 * [Here's](http://dl.p30eng.com/p30eng3/Course-booklet-data-structures-www.P30eng.com.zip) a complete and comprehensive booklet on data-building lessons for you dear students of computer engineering or information technology. You can read more about the educational content of the booklet and its headings.
 
