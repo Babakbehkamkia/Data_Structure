@@ -17,7 +17,7 @@ Various expressions together, Terry, binary search tree
 
 6. Advanced Data Structure: Separate Sets, Red-Black Trees, Statistical Rank Tree, Interval Tree-VL, B-Tree -->
 
-1. Intro
+<!-- 1. Intro
 
 2. Complexity
 
@@ -33,4 +33,6 @@ Various expressions together, Terry, binary search tree
 
 8. Greedy Algorithm
 
-9. Misc Graph/Tree Algorithms
+9. Misc Graph/Tree Algorithms -->
+
+![an image alt text]({{DATA_STRUCTURE}}/images/syllabus.png)
