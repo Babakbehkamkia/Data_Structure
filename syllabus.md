@@ -35,4 +35,4 @@ Various expressions together, Terry, binary search tree
 
 9. Misc Graph/Tree Algorithms -->
 
-![an image alt text]({{DATA_STRUCTURE}}/images/syllabus.png)
+![an image alt text]({{babakbehkamkia.github.io/DATA_STRUCTURE/}}/images/syllabus.png)
