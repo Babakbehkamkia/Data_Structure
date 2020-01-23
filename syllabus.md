@@ -205,99 +205,99 @@ Various expressions together, Terry, binary search tree
     </tr>
     <tr>
       <td style="text-align: center">18</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Sorting_QuickSort</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">19</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Sorting_LinearSorting</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">20</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">DynamicProgramming</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">21</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">DynamicProgramming_CYK_ProjDef</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">22</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">DynamicProgramming_LCS_</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">23</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Greedy Algorithms</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">24</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Graph_Intro_Net</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">25</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Graph_General</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">26</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">MinimumSpanningTree</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">27</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">ShortestPath</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">28</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">RedBlackTree</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
