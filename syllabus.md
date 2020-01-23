@@ -52,132 +52,249 @@ Various expressions together, Terry, binary search tree
   <tbody>
     <tr>
       <td style="text-align: center">1</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">-</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>&nbsp</td>
+      <td style="text-align: center">Intro</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">2</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">Python:Intro</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Intro_Algorithm_applications</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">3</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">Python:Math/Input/Output/variables</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Insertion_sort</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">4</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">Python:Loops/Condition/Stack/Scope</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">CostAnalysis</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">5</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">Python:Debug/Test/Hackathon Intro</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>&nbsp</td>
+      <td style="text-align: center">Divide_and_Conquer_MergeSort</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">6</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">Hackathon Week</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>&nbsp</td>
+      <td style="text-align: center">MasterMethod</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">7</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">Python:Hackathon Presentation</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>&nbsp</td>
+      <td style="text-align: center">dataTypes</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">8</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">Python:Turtle Graphics Physics</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>&nbsp</td>
+      <td style="text-align: center">LinkedList</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">9</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">Python:VPython, More Physcis</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>&nbsp</td>
+      <td style="text-align: center">Queue</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">10</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">Python: Matplotlib, Math Problems</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>&nbsp</td>
+      <td style="text-align: center">Stacks</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">11</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Input/Output/Syntax/VSCode/Debug</td>
-      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Trees</td>
+      <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">12</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Unit Testing</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Heap</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">13</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Functions, Pointers, References</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">BinarySearchTree</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">14</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">&nbsp</td>
-      <td style="text-align: center">C:Using STL</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Hash Function</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">15</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Sorting_Insertion_SelectionSort</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">16</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Sorting_BubbleSort</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">17</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">Sorting_Merge_Heap_Sort</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">18</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">19</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">20</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">21</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">22</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">23</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">24</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">25</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">26</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">27</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">C:Practice and Exam</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">28</td>
       <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">C:Practice and Exam</td>
