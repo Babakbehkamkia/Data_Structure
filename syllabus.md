@@ -52,17 +52,17 @@ Various expressions together, Terry, binary search tree
   <tbody>
     <tr>
       <td style="text-align: center">1</td>
-      <td style="text-align: center">6/31</td>
-      <td style="text-align: center">7/02</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">-</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>University Orientation</td>
+      <td>&nbsp</td>
     </tr>
     <tr>
       <td style="text-align: center">2</td>
-      <td style="text-align: center">7/7</td>
-      <td style="text-align: center">7/09</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">Python:Intro</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
@@ -70,8 +70,8 @@ Various expressions together, Terry, binary search tree
     </tr>
     <tr>
       <td style="text-align: center">3</td>
-      <td style="text-align: center">7/14</td>
-      <td style="text-align: center">7/16</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">Python:Math/Input/Output/variables</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
@@ -79,8 +79,8 @@ Various expressions together, Terry, binary search tree
     </tr>
     <tr>
       <td style="text-align: center">4</td>
-      <td style="text-align: center">7/21</td>
-      <td style="text-align: center">7/23</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">Python:Loops/Condition/Stack/Scope</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
@@ -88,71 +88,71 @@ Various expressions together, Terry, binary search tree
     </tr>
     <tr>
       <td style="text-align: center">5</td>
-      <td style="text-align: center">7/28</td>
-      <td style="text-align: center">7/30</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">Python:Debug/Test/Hackathon Intro</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>Saturday Off</td>
+      <td>&nbsp</td>
     </tr>
     <tr>
       <td style="text-align: center">6</td>
-      <td style="text-align: center">8/05</td>
-      <td style="text-align: center">8/07</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">Hackathon Week</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>Sunday &amp; Tuesday Off</td>
+      <td>&nbsp</td>
     </tr>
     <tr>
       <td style="text-align: center">7</td>
-      <td style="text-align: center">8/12</td>
-      <td style="text-align: center">8/14</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">Python:Hackathon Presentation</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>Wednesday Off</td>
+      <td>&nbsp</td>
     </tr>
     <tr>
       <td style="text-align: center">8</td>
-      <td style="text-align: center">8/19</td>
-      <td style="text-align: center">8/21</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">Python:Turtle Graphics Physics</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>Basic Sceince Midterms</td>
+      <td>&nbsp</td>
     </tr>
     <tr>
       <td style="text-align: center">9</td>
-      <td style="text-align: center">8/26</td>
-      <td style="text-align: center">8/28</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">Python:VPython, More Physcis</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>Basic Sceince Midterms</td>
+      <td>&nbsp</td>
     </tr>
     <tr>
       <td style="text-align: center">10</td>
-      <td style="text-align: center">9/03</td>
-      <td style="text-align: center">9/05</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">Python: Matplotlib, Math Problems</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
-      <td>Basic Sceince Midterms</td>
+      <td>&nbsp</td>
     </tr>
     <tr>
       <td style="text-align: center">11</td>
-      <td style="text-align: center">9/10</td>
-      <td style="text-align: center">9/12</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">C:Input/Output/Syntax/VSCode/Debug</td>
-      <td style="text-align: center">Redoing Python Problems in C</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td style="text-align: center">12</td>
-      <td style="text-align: center">9/17</td>
-      <td style="text-align: center">9/19</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">C:Unit Testing</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
@@ -160,8 +160,8 @@ Various expressions together, Terry, binary search tree
     </tr>
     <tr>
       <td style="text-align: center">13</td>
-      <td style="text-align: center">9/24</td>
-      <td style="text-align: center">9/26</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">C:Functions, Pointers, References</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
@@ -169,8 +169,8 @@ Various expressions together, Terry, binary search tree
     </tr>
     <tr>
       <td style="text-align: center">14</td>
-      <td style="text-align: center">9/31</td>
-      <td style="text-align: center">10/03</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">C:Using STL</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
@@ -178,8 +178,8 @@ Various expressions together, Terry, binary search tree
     </tr>
     <tr>
       <td style="text-align: center">15</td>
-      <td style="text-align: center">10/08</td>
-      <td style="text-align: center">10/10</td>
+      <td style="text-align: center">&nbsp</td>
+      <td style="text-align: center">&nbsp</td>
       <td style="text-align: center">C:Practice and Exam</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: center">&nbsp;</td>
